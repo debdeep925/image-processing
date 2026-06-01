@@ -49,7 +49,7 @@ Frontend runs on: `http://localhost:5173`
 ## Build Frontend
 
 ```bash
-cd client
+cd frontend
 npm run build
 ```
 
